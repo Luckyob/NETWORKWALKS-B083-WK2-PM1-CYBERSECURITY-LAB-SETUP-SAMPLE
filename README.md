@@ -409,17 +409,22 @@ Further penetration testing phases can build on these findings to assess the sec
 ## 8. Evidence
 
 The following evidence can be included in this repository:
+<img width="1366" height="662" alt="whois" src="https://github.com/user-attachments/assets/aab1affb-627e-4052-b71e-252358879f13" />
 
-```text
-evidence/
-├── whois-results.png
-├── whatweb-results.png
-├── nslookup-results.png
-├── curl-results.png
-├── wafw00f-results.png
-├── dnsrecon-results.png
-└── zenmap-results.png
-```
+
+<img width="1356" height="744" alt="nmap" src="https://github.com/user-attachments/assets/64dbc11e-9022-4f1c-833d-fd987dc81d2f" />
+<img width="360" height="492" alt="topo" src="https://github.com/user-attachments/assets/af1c7399-48fb-4866-8b2a-008fcd745683" />
+<img width="1366" height="662" alt="whatweb" src="https://github.com/user-attachments/assets/3d5926ac-146a-45f8-9757-b7622d4d73a7" />
+<img width="1366" height="662" alt="ns" src="https://github.com/user-attachments/assets/7ed0ebbd-ec8b-46ee-8fc1-9e27bbffbefa" />
+<img width="1366" height="662" alt="curl" src="https://github.com/user-attachments/assets/84ad42f7-b847-4370-9fd5-9fd7e51ba586" />
+<img width="1366" height="662" alt="dns" src="https://github.com/user-attachments/assets/377b0b2a-abb6-42fd-ae52-766aba660b0f" />
+<img width="1366" height="662" alt="waf" src="https://github.com/user-attachments/assets/9996334c-f80a-4fc8-adea-0d28b5421887" />
+<img width="1366" height="662" alt="dns0" src="https://github.com/user-attachments/assets/7107d729-cdf6-41f7-8b6a-041a01ca50e0" />
+<img width="1366" height="627" alt="zenmap" src="https://github.com/user-attachments/assets/6bed3a9e-8c22-40cc-9e5e-381bec902cc1" />
+<img width="1366" height="627" alt="zenm" src="https://github.com/user-attachments/assets/c089ebe7-79d4-44d0-a775-b37bc877b7fd" />
+
+
+
 
 > Screenshots should contain only information that is appropriate to share publicly. Sensitive credentials, tokens, private IP ranges, personal information, or other confidential information should be removed before uploading.
 
