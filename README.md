@@ -423,11 +423,6 @@ The following evidence can be included in this repository:
 <img width="1366" height="627" alt="zenmap" src="https://github.com/user-attachments/assets/6bed3a9e-8c22-40cc-9e5e-381bec902cc1" />
 <img width="1366" height="627" alt="zenm" src="https://github.com/user-attachments/assets/c089ebe7-79d4-44d0-a775-b37bc877b7fd" />
 
-
-
-
-> Screenshots should contain only information that is appropriate to share publicly. Sensitive credentials, tokens, private IP ranges, personal information, or other confidential information should be removed before uploading.
-
 ---
 
 ## 9. Skills Demonstrated
@@ -452,8 +447,27 @@ Through this practical assessment, the following cybersecurity skills were demon
 ## 10. Environment
 
 **Operating System:** Kali Linux
+
 **Scanning Tool:** Zenmap / Nmap 7.991
+
 **Target:** Authorized Networkwalks website
+
 **Network Target:** Authorized local network
+
 **Assessment Date:** 18 September 2026
+
 **Authorization:** Written permission secured
+
+
+👤 Author
+Samuel Lucky
+Cybersecurity Professional B083
+
+LinkedIn: https://www.linkedin.com/in/lucky-samuel-4bb397296
+
+📌 Project Information
+Program Name: Cybersecurity at Networkwalks
+Week: 02
+Project:  Pentesting Testing Report
+Repository: GitHub
+
