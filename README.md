@@ -459,15 +459,24 @@ Through this practical assessment, the following cybersecurity skills were demon
 **Authorization:** Written permission secured
 
 
-👤 Author
-Samuel Lucky
-Cybersecurity Professional B083
 
-LinkedIn: https://www.linkedin.com/in/lucky-samuel-4bb397296
 
-📌 Project Information
-Program Name: Cybersecurity at Networkwalks
-Week: 02
-Project:  Pentesting Testing Report
-Repository: GitHub
+## 👤 Author
 
+**Samuel Lucky**
+Cybersecurity Professional — **B083**
+
+🔗 **LinkedIn:** https://www.linkedin.com/in/lucky-samuel-4bb397296
+
+---
+
+## 📌 Project Information
+
+| Field          | Details                       |
+| -------------- | ----------------------------- |
+| **Program**    | Cybersecurity at Networkwalks |
+| **Week**       | 02                            |
+| **Project**    | Penetration Testing Report    |
+| **Repository** | GitHub                        |
+
+---
